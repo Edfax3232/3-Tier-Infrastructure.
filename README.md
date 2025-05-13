@@ -1,4 +1,4 @@
-# 3-Tier-Infrastructure.
+## **3-Tier-INFRASTRUCTURE-DEPLOYMENT**
 This is a project combining the 3-Tier Web-Tier, Application-Tier and Database-Tier.
 
 This project involves the deployment of a highly available, secure, and scalable three-tier web application infrastructure in Amazon Web Services (AWS). The architecture separates the application into three logical tiers:
