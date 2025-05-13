@@ -3,7 +3,7 @@ This is a project combining the 3-Tier Web-Tier, Application-Tier and Database-T
 
 This project involves the deployment of a highly available, secure, and scalable three-tier web application infrastructure in Amazon Web Services (AWS). The architecture separates the application into three logical tiers:
 
-1.## **WEB TIER**
+1. ## **WEB TIER**
 Hosted in ECS containers within public subnets.
 
 Load-balanced using Application Load Balancer (ALB).
